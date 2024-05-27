@@ -4,5 +4,5 @@
 - result in ...
 
 ## how do i
-- mimic visual
+- [x] mimic visual (draft)
 - mimic function
